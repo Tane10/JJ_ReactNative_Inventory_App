@@ -1,4 +1,5 @@
 # JJ_ReactNative_Inventory_App
+<<<<<<< HEAD
 
 
 ## Table Of Contents:
@@ -53,3 +54,21 @@ Aim to get instant feedback from bugs (Unit test) You can check each component s
 [detox vid from reddit](https://www.reddit.com/r/reactnative/comments/9zn26x/automated_end_2_end_greybox_testing_in_react/)
 
 [E2E](https://medium.com/@reime005/react-native-end-to-end-testing-d488e010e39f)
+=======
+An inventory React-Native mobile App
+
+
+<h2>Testing Framwork:</h2>
+  
+<h3> Unit Testing:</h3>
+
+* [Mocha](https://mochajs.org/)
+
+<h3> Acceptance and End-to-End Testing:</h3>
+
+* [Cypress](https://www.cypress.io/)
+
+
+
+
+>>>>>>> 3b30e4d536baa113ac51c89a1ee19d34364a16ce
